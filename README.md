@@ -54,3 +54,5 @@ Todos los conjuntos utilizan los mismos elementos de ejemplo, algunos de ellos d
 ![alt text](image.png)
 
 ---
+## 📈 SEGUNDO GRAFICO
+![alt text]({25938A86-0AF3-49C8-B4B3-0AF2E472483E}.png)
